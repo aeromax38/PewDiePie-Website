@@ -1,8 +1,11 @@
-.website-main-container {
-  margin-top: 100px;
-  margin-bottom: 50px;
+.website-main-container{
+  margin-top: 10dpi;
+  margin-bottom: 5dpi;
 }
 
 h1{
-  font-size: 80px;
+  font-size: 30dpi;
+}
+h2{
+  font-size: 20dpi;
 }
