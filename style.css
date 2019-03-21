@@ -1,6 +1,6 @@
 .website-main-container{
-  margin-top: 10dpi;
-  margin-bottom: 5dpi;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 img { 
   width: 100%; 
@@ -14,14 +14,14 @@ body{
   background-attachment: scroll;
 }
 h1{
-  font-size: 30dpi;
+  font-size: 30px;
 }
 h2{
-  font-size: 20dpi;
+  font-size: 20px;
 }
 p1{
-  font-size: 18dpi;
+  font-size: 18px;
 }
 p2{
-  font-size: 13dpi;
+  font-size: 13px;
 }
