@@ -14,6 +14,9 @@ h2{
 }
 p1{
   font-size: 18dpi;
+  img.resize {
+  max-width:50%;
+  max-height:50%;}
 }
 p2{
   font-size: 13dpi;
