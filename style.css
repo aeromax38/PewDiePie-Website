@@ -6,7 +6,7 @@ body{
   font-family: arial;
   background-image: url("Bitch Lasagna.jpg");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
   background-attachment: scroll;
 }
 h1{
