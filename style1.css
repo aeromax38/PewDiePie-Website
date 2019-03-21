@@ -1,7 +1,10 @@
-.website-main-container {
+.website-main-container 
+{
   margin-top: 100px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
-h1 {
-  font-size: 100px;
+
+h1 
+{
+  font-size: 80px;
 }  
