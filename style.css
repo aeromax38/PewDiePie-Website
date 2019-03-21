@@ -7,7 +7,11 @@ img {
 }
 body{
   color: #0000A0;
-  font-family: arial, times new roman;
+  font-family: arial;
+  background-image: url("Bitch Lasagna.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: scroll;
 }
 h1{
   font-size: 30dpi;
