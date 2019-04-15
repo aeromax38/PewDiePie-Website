@@ -1,5 +1,5 @@
 img { 
-  height: 30%; 
+  height: 100px; 
 }
 body{
   color: #F0F8FF;
@@ -10,11 +10,11 @@ body{
   background-attachment: scroll;
 }
 h1{
-  font-size: 30px;
+  font-size: 45px;
 }
 h2{
   font-size: 20px;
 }
 p{
-  font-size: 15px;
+  font-size: 10px;
 }
