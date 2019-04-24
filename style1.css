@@ -28,14 +28,11 @@ h4{
   font-size: 20px;
 }
 h5{
-  font-size: 18px;
+  font-size: 20px;
 }
 h6{
-  font-size: 20px;
-  padding: 15px 25px;
+  font-size: 18px;
   text-align: center;
-  text-decoration: none;
-  display: inline-block;
 }
 p{
   font-size: 15px;
