@@ -1,5 +1,11 @@
-img { 
-  width: 100%; 
+.button1{
+  background-color: #FFFFFF;
+}
+.button2{
+  background-color: #00B6F1;
+}
+a{
+  font-size: 20px;
 }
 body{
   color: #ffffff;
@@ -22,15 +28,12 @@ h4{
   font-size: 20px;
 }
 h5{
-  font-size: 18px;
+  font-size: 20px;
 }
 h6{
-  font-size: 15px;
+  font-size: 18px;
+  text-align: center;
 }
 p{
-  font-size: 20px;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
+  font-size: 15px;
 }
